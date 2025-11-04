@@ -28,7 +28,7 @@ This app allows users to add, edit, delete, and manage their daily tasks efficie
 
 ## 📸 Preview
 
-![Todo App Preview](./todo-list/src/assets/Todo.png)
+![Todo App Preview](./src/assets/Todo.png)
 
 ---
 
